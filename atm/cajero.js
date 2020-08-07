@@ -50,7 +50,7 @@ function entregarDinero() {
 
 }
 
-
+var total = 0;
 var caja = [];
 var entregado = [];
 
